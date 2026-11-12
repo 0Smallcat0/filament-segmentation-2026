@@ -1,0 +1,9 @@
+numpy==2.1.3
+scipy==1.16.3
+opencv-python-headless==4.14.0.94
+pandas==2.3.3
+pycocotools==2.0.10
+torch==2.11.0
+torchvision==0.26.0
+segmentation-models-pytorch==0.4.0
+jupyter==1.1.1

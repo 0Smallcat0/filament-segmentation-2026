@@ -1,0 +1,6 @@
+{
+  "original_detector_sha256": "cb7a67a6e6d00d3221a47fd7cb6ffaa47bb8996a229df75c39a0dd225d28ee8f",
+  "detector_state_sha256": "86bd2e26cb2a2a26fdbb9bf5282191fd3c123442c64b1d79ff2f51e0c54d466d",
+  "refiner_sha256": "956d0534c446fb660d6dc5f096c3438b8a703f76a1a77ab8eb6023964332abfa",
+  "provenance_sha256": "0ee38598b593e615c2649c17f664e55fe1c22ec2931106d76c1604bf1004f822"
+}
